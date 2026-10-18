@@ -2,3 +2,11 @@ llm_sdk
 data
 call_me_maybe_subject.pdf
 AGENTS.md
+__pycache__/
+*.py[cod]
+.venv/
+.uv-cache/
+.mypy_cache/
+.pytest_cache/
+data/output/*
+!data/output/.gitkeep
